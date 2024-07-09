@@ -72,7 +72,3 @@ For more reliable evaluation, real play data should be utilized to assess the mo
 ## Google Colab Links
 - [Colab Notebook 1](https://colab.research.google.com/drive/1QYWusFlFOrPhcsVHwdg5NYKHjhxTR4vH?usp=sharing)
 - [Colab Notebook 2](https://colab.research.google.com/drive/1y_7tR2MoWPw3Ie-x3_y3-ZzRSysti9zB?usp=sharing)
-
----
-
-This README file provides an overview of your project, explaining the problem, the applied algorithms, and the results obtained. You can copy this text into a README.md file and upload it to your GitHub repository.
