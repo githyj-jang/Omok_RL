@@ -2,11 +2,11 @@
 
 ## Project Description
 
-This project focuses on developing a reinforcement learning model to play the game of Omoku. The project was conducted using Google Colab.
+This project focuses on developing a reinforcement learning model to play the game of omok. The project was conducted using Google Colab.
 
 ## Problem Definition
 
-- **State**: The state is represented by a 15x15 board for the game of Omoku.
+- **State**: The state is represented by a 15x15 board for the game of omok.
 - **Reward**: 
   - Win: +1
   - Lose: -1
@@ -18,7 +18,7 @@ This project focuses on developing a reinforcement learning model to play the ga
   - Blocking opponent's 3 consecutive stones: 0.02 (A3C), 0.2 (TD)
   - Blocking opponent's 4 consecutive stones: 0.04 (A3C), 0.4 (TD)
 
-To win, a player must place five stones in a row. Unlike traditional Omoku, both players can place stones without turn restrictions.
+To win, a player must place five stones in a row. Unlike traditional omok, both players can place stones without turn restrictions.
 
 ## Applied Reinforcement Learning Algorithms
 
